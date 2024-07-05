@@ -4,7 +4,7 @@
 - I learned Related to Web Development: HTML, CSS, JavaScript, Core Java, and Python.
 - I’m currently learning assembly-level language.
 - 💞️ I’m looking for a Web Development or Software Development role
-- 📫 How to reach me, mail: lakshmanprasad13579@gmail.com
+- 📫 How to reach me, mail: lakshman23122001@gmail.com
 -    How to reach me, Linkedin: https://www.linkedin.com/in/lakshmana-prasad-ankam-51165325a
 
 <!---
