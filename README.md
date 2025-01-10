@@ -5,7 +5,7 @@
 - I’m currently learning assembly-level language.
 - 💞️ I’m looking for a Web Development or Software Development role
 - 📫 How to reach me, mail: lakshman23122001@gmail.com
--    How to reach me, Linkedin: https://www.linkedin.com/in/lakshmana-prasad-ankam-51165325a
+-    How to reach me, Linkedin: https://www.linkedin.com/in/lakshman23/
 
 <!---
 GitLakshman/GitLakshman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
