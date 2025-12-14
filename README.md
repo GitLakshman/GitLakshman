@@ -1,5 +1,5 @@
 ## Hello 👋, I'm Lakshmana Prasad  
-🚀 Java Full Stack Developer | Web & Software Development Enthusiast  
+🚀 Software Development Engineer
 
 I’m a passionate **Java Full Stack Developer** with experience in building scalable, high-quality web and backend applications. I enjoy solving real-world problems, collaborating with teams, and continuously learning new technologies.  
 Let’s build something amazing together 🤝
