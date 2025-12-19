@@ -1,7 +1,7 @@
 ## Hello 👋, I'm Lakshmana Prasad  
 🚀 Software Development Engineer
 
-I’m a passionate **Java Full Stack Developer** with experience in building scalable, high-quality web and backend applications. I enjoy solving real-world problems, collaborating with teams, and continuously learning new technologies.  
+I’m a passionate **Full Stack Developer** with experience in building scalable, high-quality web and backend applications. I enjoy solving real-world problems, collaborating with teams, and continuously learning new technologies.  
 Let’s build something amazing together 🤝
 
 ---
@@ -17,22 +17,21 @@ Let’s build something amazing together 🤝
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,dart,flutter" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
 </p>
 
 #### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,intellijIdea" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,postman" />
 </p>
 
 ### 💼 Experience Snapshot
 - Full Stack Developer – NS Payments Platform
-- Java Backend Engineer – Schneider Electric 
 - Java Full Stack Java Developer – IIDT (Remote)  
 
 Built **10+ real-world full-stack applications** with clean architecture and scalable design.
