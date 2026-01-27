@@ -9,7 +9,7 @@ Let’s build something amazing together 🤝
 ### 💬 About Me
 - 💡 Loves talking about **Technology, Software, Coding & System Design**
 - 🤝 Open for **Collaboration** on web & software projects
-- 🌱 Currently exploring **Assembly Language, Backend Architecture & Databases**
+- 🌱 Currently exploring **Backend Architecture & Databases**
 
 ---
 
