@@ -1,5 +1,5 @@
-## Hello 👋, I'm Lakshmana Prasad <a href='https://portfolio-gitlakshman.vercel.app/'> <img href='https://cdn-icons-png.flaticon.com/512/659/659999.png'/></a>
-🚀 Software Development Engineer 
+## Hello 👋, I'm Lakshmana Prasad 
+🚀 Software Development Engineer <a href='https://portfolio-gitlakshman.vercel.app/'> <img href='https://cdn-icons-png.flaticon.com/512/659/659999.png'/></a>
 
 
 
