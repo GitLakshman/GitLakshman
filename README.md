@@ -1,9 +1,9 @@
 ## Hello 👋, I'm Lakshmana Prasad  
-🚀 Software Development Engineer 
-
-<p align='left'>
+🚀 Software Development Engineer <p>
   <a href='https://portfolio-gitlakshman.vercel.app/'>PORTFOLIO</a>
 <p/>
+
+
 
 I’m a passionate **Full Stack Developer** with experience in building scalable, high-quality web and backend applications. I enjoy solving real-world problems, collaborating with teams, and continuously learning new technologies.  
 Let’s build something amazing together 🤝
