@@ -1,6 +1,7 @@
 ## Hello 👋, I'm Lakshmana Prasad  
 🚀 Software Development Engineer 
-<p align='right'>
+
+<p align='left'>
   <a href='https://portfolio-gitlakshman.vercel.app/'>PORTFOLIO</a>
 <p/>
 
