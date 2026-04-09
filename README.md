@@ -23,12 +23,12 @@ Let’s build something amazing together 🤝
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,express,mongodb" />
 </p>
 
 #### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,postman,vscode" />
 </p>
 
 ### 💼 Experience Snapshot
