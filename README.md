@@ -1,6 +1,12 @@
 <div align="center">
 
-# Hello, I'm Lakshmana Prasad 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lakshmana%20Prasad&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +16,11 @@
 
 I'm a passionate **Software Development Engineer** and **Full Stack Developer** exploring the world of scalable web and backend applications, solving real-world problems, and continuously learning new technologies.
 
-- 🚀 I'm currently working on **full-stack and backend projects**
-- 🌱 I'm currently learning **Backend Architecture, Databases & System Design**
-- 🤝 I'm looking to collaborate on **open-source and real-world software projects**
+- 🚀 Currently working on **full-stack, backend & DevOps projects**
+- 🌱 Deep-diving into **Backend Architecture, System Design & Cloud (AWS)**
+- 🤖 Exploring **AI/ML integrations** in web and backend systems
+- 🤝 Looking to collaborate on **open-source and real-world software projects**
+- 🏗️ Built **18+ real-world projects** across web, mobile, AI & automation
 - 📫 Reach me at: **lakshman23122001@gmail.com**
 - 🌐 Portfolio: [portfolio-gitlakshman.vercel.app](https://portfolio-gitlakshman.vercel.app/)
 
@@ -58,16 +66,16 @@ I'm a passionate **Software Development Engineer** and **Full Stack Developer** 
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitLakshman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitLakshman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLakshman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLakshman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitLakshman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GitLakshman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,32 +96,46 @@ I'm a passionate **Software Development Engineer** and **Full Stack Developer** 
 
 ---
 
-### 📌 Popular Repositories
+### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/GitLakshman/intelligent-traffic-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitLakshman&repo=intelligent-traffic-system&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitLakshman/GameHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitLakshman&repo=GameHub&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/GitLakshman/Task-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitLakshman&repo=Task-Management-System&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitLakshman/Billing-Software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitLakshman&repo=Billing-Software&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/GitLakshman/WeatherApp-Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitLakshman&repo=WeatherApp-Flutter&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/GitLakshman/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitLakshman&repo=portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+#### 🌐 Full Stack & Web
+
+| Repository | Description |
+|---|---|
+| [🧾 Billing-Software](https://github.com/GitLakshman/Billing-Software) | Full-stack billing and invoicing system |
+| [💸 Expense-Tracker](https://github.com/GitLakshman/Expense-Tracker) | Personal finance tracker with analytics |
+| [✅ Task-Management-System](https://github.com/GitLakshman/Task-Management-System) | Collaborative task & project management app |
+| [🎮 GameHub](https://github.com/GitLakshman/GameHub) | Multi-game platform with leaderboards |
+
+#### 🤖 AI & Intelligent Systems
+
+| Repository | Description |
+|---|---|
+| [🚦 intelligent-traffic-system](https://github.com/GitLakshman/intelligent-traffic-system) | AI-powered adaptive traffic signal control system |
+| [📚 Document-Intelligence-and-Knowledge-Search-Hub](https://github.com/GitLakshman/Document-Intelligence-and-Knowledge-Search-Hub) | Intelligent document parsing & semantic search hub |
+
+#### 📱 Mobile (Flutter)
+
+| Repository | Description |
+|---|---|
+| [🌤️ WeatherApp-Flutter](https://github.com/GitLakshman/WeatherApp-Flutter) | Real-time weather app built with Flutter & Dart |
+| [🛒 ShopApp-Flutter](https://github.com/GitLakshman/ShopApp-Flutter) | E-commerce shopping app with Flutter |
+| [💱 CurrencyConverter-Flutter](https://github.com/GitLakshman/CurrencyConverter-Flutter) | Live currency conversion app in Flutter |
+| [📦 Mobile-UI-Modules-Flutter](https://github.com/GitLakshman/Mobile-UI-Modules-Flutter) | Reusable Flutter UI component library |
+
+#### ⚙️ DevOps & Backend
+
+| Repository | Description |
+|---|---|
+| [🐳 springboot-docker-demo](https://github.com/GitLakshman/springboot-docker-demo) | Spring Boot app containerized with Docker |
+| [🐧 linux-system-automation](https://github.com/GitLakshman/linux-system-automation) | Linux shell scripts for system automation |
+
+#### 🎨 Frontend & Misc
+
+| Repository | Description |
+|---|---|
+| [🌐 portfolio](https://github.com/GitLakshman/portfolio) | Personal developer portfolio website |
+| [📖 DSA-Prep](https://github.com/GitLakshman/DSA-Prep) | Data Structures & Algorithms practice solutions |
 
 ---
 
@@ -122,7 +144,7 @@ I'm a passionate **Software Development Engineer** and **Full Stack Developer** 
 - 🏢 **Full Stack Developer** – NS Payments Platform
 - 👨‍💻 **Java Full Stack Developer** – IIDT (Remote)
 
-> Built **10+ real-world full-stack applications** with clean architecture and scalable design.
+> Built **18+ real-world projects** spanning full-stack web apps, mobile apps, AI systems, and DevOps automation.
 
 ---
 
@@ -133,3 +155,7 @@ I'm a passionate **Software Development Engineer** and **Full Stack Developer** 
 <p align="center">
   <i>"Code is not just syntax — it's a solution to someone's problem."</i>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
